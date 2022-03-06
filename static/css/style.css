@@ -6,3 +6,11 @@ body {
     background-size: 100% 100%;
     text-align: center;
   }
+  .label {
+    /*margin-bottom: -5px;*/
+     margin-bottom: 0px
+   }
+   table, th, td {
+    border: 1px solid white;
+    color:white;
+  }
